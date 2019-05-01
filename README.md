@@ -1,2 +1,3 @@
-## My First Repository. My second repository.
+
+## My First Repository on GitHub
 Hello World !!!
